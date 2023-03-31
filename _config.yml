@@ -1,5 +1,5 @@
 # Site
-title:              Navi Ning
+title:              WHite
 bio:                "The very beginning mind itself is the most accomplished mind of true enlightenment."
 description:        "MSE@UIUC, CSE@UIUC. Interested in High-Performance Computing, Server-side Development and Computer Graphics."
 reading_time:       true
@@ -8,8 +8,8 @@ logo:               'assets/img/logo.jpg'
 background:         'assets/img/placeholder-big.png'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://navining.github.io
-blog-url:           https://navining.github.io/blog
+url:                https://white0312.github.io
+blog-url:           https://white0312.github.io/blog
 
 # Jekyll
 permalink:          /:title/
